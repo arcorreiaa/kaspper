@@ -36,7 +36,7 @@ Ao fazer login ou criar a conta os dados do usuário são salvos localmente.
 
 ```bash
 # Clone o repositório
-$ git clone git@github.com:alexjou/kaspper.git
+$ git clone git@github.com:arcorreiaa/kaspper.git
 
 # Entre na pasta
 $ cd kaspper
